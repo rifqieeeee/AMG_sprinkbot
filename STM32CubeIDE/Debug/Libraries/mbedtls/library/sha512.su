@@ -1,0 +1,8 @@
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Libraries/mbedtls/library/sha512.c:99:6:mbedtls_sha512_init	16	static
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Libraries/mbedtls/library/sha512.c:106:6:mbedtls_sha512_free	16	static
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Libraries/mbedtls/library/sha512.c:114:6:mbedtls_sha512_clone	16	static
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Libraries/mbedtls/library/sha512.c:126:5:mbedtls_sha512_starts	16	static
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Libraries/mbedtls/library/sha512.c:223:5:mbedtls_internal_sha512_process	2512	static
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Libraries/mbedtls/library/sha512.c:330:5:mbedtls_sha512_update	72	static
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Libraries/mbedtls/library/sha512.c:382:5:mbedtls_sha512_finish	56	static
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Libraries/mbedtls/library/sha512.c:454:5:mbedtls_sha512	248	static

@@ -1,0 +1,3 @@
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Examples/sntp/w5x00_sntp.c:47:6:sntp_demo	56	static
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Examples/sntp/w5x00_sntp.c:88:6:get_time_hour	40	static
+D:/Master/W5300-TOE-C-main/W5300-TOE-C-main/Examples/sntp/w5x00_sntp.c:128:6:get_time_minutes	40	static
